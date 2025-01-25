@@ -5,5 +5,5 @@ if x < 18  :
 elif x > 18 :
     print("si x es mayor que 18 es mayor de edad")     
 else:
-    print("el numero que escribiste no es mayor ni menor que 18" )
+    print("el numero que escribiste no es mayor ni menor que 18")
 
