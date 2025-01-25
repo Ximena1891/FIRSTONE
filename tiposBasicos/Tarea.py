@@ -6,4 +6,3 @@ elif usuario > 18 :
     print("el usuario es mayor de edad ")     
 else:
     print("el usuario tiene 18" )
-
